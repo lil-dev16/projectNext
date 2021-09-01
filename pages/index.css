@@ -1,0 +1,7 @@
+.about{
+    grid-template-columns: repeat(2,);
+    background-color: w ;
+    font-family: ;
+}
+
+.num:nth-child()
